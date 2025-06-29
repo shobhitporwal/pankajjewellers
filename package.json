@@ -1,0 +1,16 @@
+{
+  "name": "pankaj-jewellers-website",
+  "version": "1.0.0",
+  "description": "Pankaj Jewellers - Gold & Silver Jewellery Website",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build complete - static files ready'",
+    "start": "python3 -m http.server 3000",
+    "dev": "python3 -m http.server 3000"
+  },
+  "keywords": ["jewellery", "gold", "silver", "website"],
+  "author": "Pankaj Jewellers",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
